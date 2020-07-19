@@ -1,0 +1,20 @@
+Dungeons And Lesbians ver1.2日本語化ファイルver1.0です。
+
+注意：以下の点に同意いただける場合のみ導入してください。
+この日本語化ファイルを使用したことによって生じたすべての損害、不具合等について本ファイル作者は責任を負いません。自己責任で導入してください。
+
+導入方法：
+Japaneseフォルダを、DungeonsAndLesbians-1.2-win/game/tlフォルダの中においてください。
+次回起動時から日本語化した状態で始まります。
+英語に戻したいときは導入したJapaneseフォルダを削除してください。
+
+翻訳：
+fuglekongerige(fuglekongerige@gmail.com/Twitter(@fuglekongerige))
+誤字、脱字、誤訳、システム上の改良の余地等を発見された場合、翻訳者までお知らせくだされば幸いです。
+
+使用フォント：
+みかちゃん（http://www001.upp.so-net.ne.jp/mikachan/）
+
+更新履歴：
+Ver1.0 2020/07/20
+・公開
