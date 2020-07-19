@@ -1,8 +1,8 @@
 # Dungeons_and_Lesbians_JP
 <h2>概要</h2>
 Dungeons and Lesbians の日本語化ファイルです。<br>
-販売サイト：https://noeybodys.itch.io/dungeonsandlesbians  
-この日本語化ファイルを使用したことによって生じたすべての損害、不具合等について本ファイル作者は責任を負いません。自己責任で導入してください。<br>
+販売サイト：https://noeybodys.itch.io/dungeonsandlesbians <br>
+この日本語化ファイルを使用したことによって生じたすべての損害、不具合等について本ファイル作者は責任を負いません。<br>自己責任で導入してください。<br>
 
 <h2>バージョン</h2>
 ver 1.0
