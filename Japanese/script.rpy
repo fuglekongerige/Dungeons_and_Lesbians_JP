@@ -40,7 +40,7 @@ translate Japanese lovestart_0a749466:
 translate Japanese lovestart_eb90788c:
 
     # "By the warmth your head is resting on, it seems you were sleeping on the knees of one of your friends."
-    "頭がなにか暖かいものに包まれている。誰か友達に膝枕してもらっているようだ。"
+    "頭がなにか暖かいものに包まれている。誰か友だちに膝枕してもらっているようだ。"
 
 # game/script.rpy:158
 translate Japanese lovestart_fc98b63a:
@@ -214,7 +214,7 @@ translate Japanese lovestart_a20cefa7_2:
 translate Japanese lovestart_0b8219d9:
 
     # "The voices of your friends are soothing and calming."
-    "友達の声は穏やかで落ち着くものだ。"
+    "友だちの声は穏やかで落ち着くものだ。"
 
 # game/script.rpy:195
 translate Japanese lovestart_fdeaa117_1:
@@ -238,7 +238,7 @@ translate Japanese start_intro_96556143:
 translate Japanese start_intro_4e7a0621:
 
     # non "I wonder what made you pick this junk up. You've probably even paid actual money for it."
-    non "君はどうしてこんなくだらないものをやる気になったのかな。もしかしてお金を払ったりした？"
+    non "君はどうしてこんなくだらないものをやる気になったのかな。もしかしてほんとのお金を払ったりした？"
 
 # game/script.rpy:213
 translate Japanese start_intro_43818f1b:
@@ -250,7 +250,7 @@ translate Japanese start_intro_43818f1b:
 translate Japanese start_intro_ce970931:
 
     # non "You will enter a world of swords and sorcery, where giant lizard things think thievery and regicide is a good idea."
-    non "君はこれから、剣と魔法の世界に飛び込むことになる。なんか大トカゲとかが出てきて、盗みをはたらいたり王様を殺したりしたら面白そうだとか考えるような世界さ。"
+    non "君はこれから、剣と魔法の世界に飛び込むことになる。なんか大トカゲとかが出てきて、盗みをはたらいたり王様を殺したりしたら面白そうだ、とか考えるような世界さ。"
 
 # game/script.rpy:218
 translate Japanese start_intro_b05e90c2:
@@ -280,7 +280,7 @@ translate Japanese start_intro_6fe4a3ac:
 translate Japanese start_intro_8ba06ed8:
 
     # non "Your friends won't mind."
-    non "友達も気にしないから。"
+    non "友だちも気にしないから。"
 
 # game/script.rpy:223
 translate Japanese start_intro_510ec092:
@@ -344,7 +344,7 @@ translate Japanese start_intro_b63a69d0:
 translate Japanese start_intro_294f1c70:
 
     # non "I might recommend for you to build up your relationships, be in touch with your heart so you can touch others’."
-    non "だから、ひとと仲良くするようにしよう。そして、自分の心に耳を傾けて、他人の心の声を聴けるようになろう。"
+    non "だから、ひとと仲良くしよう。そして、自分の心に耳を傾けて、他人の心の声を聴けるようになろう。"
 
 # game/script.rpy:249
 translate Japanese start_intro_d16cb3a3:
@@ -374,7 +374,7 @@ translate Japanese wave_one_4b51d27e:
 translate Japanese wave_one_411a315b:
 
     # "???" "...you've arrived."
-    "???" "……そしてたどり着いた。"
+    "???" "……たどり着いた。"
 
 # game/script.rpy:267
 translate Japanese wave_one_aeb742c8:
@@ -464,7 +464,7 @@ translate Japanese wave_one_43ef3acf:
 translate Japanese wave_one_196a498e:
 
     # "A literal knight in shining armor, the tank of your party rises, basically blinding you in her glory."
-    "文字通り輝く鎧に身を包んだ騎士（あなたのパーティのタンク（壁役）だ）が立ち上がった。その威光は目もくらむばかりだ。"
+    "文字通り輝く鎧に身を包んだ騎士（あなたのパーティのタンク（壁役））が立ち上がった。その威光には目もくらむばかりだ。"
 
 # game/script.rpy:304
 translate Japanese wave_one_54c7e62f:
@@ -758,7 +758,7 @@ translate Japanese introduction_7677b7ac:
 translate Japanese introduction_ba9193a9:
 
     # "She's the sweetest girl you've ever met! Once, she gave you an entire bowl of sweets!"
-    "彼女はあなたがあった中でも一番優しい女の子だ！　ボウルいっぱいのお菓子をくれたこともあった！"
+    "彼女はあなたが出会った中でも一番優しい女の子だ！　ボウルいっぱいのお菓子をくれたこともあった！"
 
 # game/script.rpy:442
 translate Japanese introduction_918476c3:
@@ -1628,7 +1628,7 @@ translate Japanese g_choice_aef97d0f:
 translate Japanese jimothy_one_2f6c8b91:
 
     # "Just as you figure you're done talking to your friends, a wild Jimothy approaches."
-    "友達と話すこともなくなったと思ったところで、野生のジモシーが近づいて来た。"
+    "友だちと話すこともなくなったと思ったところで、野生のジモシーが近づいて来た。"
 
 # game/script.rpy:770
 translate Japanese jimothy_one_5fafe64f:
@@ -1658,7 +1658,7 @@ translate Japanese jimothy_one_78299204:
 translate Japanese jimothy_one_85021b2e:
 
     # "Lena just introduced him as Jimothy when you first met. You would think he's her lover or whatever, but Lena's about as straight as a ruler. A {i}bendy{/i} ruler."
-    "最初に会った時、レナは彼のことをただジモシーとだけ紹介した。彼女の恋人か何かかと思ったけど、彼女は「定規みたいにストレート」だから男の恋人はいないだろう（ここで言っている定規とはもちろん、「よくしなる」やつのことだ）。"
+    "最初に会った時、レナは彼のことをただジモシーとだけ紹介した。彼女の恋人か何かかと思ったけど、レナは「定規みたいにストレート」だから男の恋人はいないだろう（ここで言っている定規とはもちろん、「よくしなる」やつのことだ）。"
 
 # game/script.rpy:775
 translate Japanese jimothy_one_19cd7d16:
@@ -1718,7 +1718,7 @@ translate Japanese jimothy_one_93271c09:
 translate Japanese jimothy_one_9000e34d:
 
     # "Today's been real fun, but talking to your friends has given you something you've become really, really curious about."
-    "今日はほんとうに楽しかった。でも、友達と話していると、なんだかとても気になることが出てきた。"
+    "今日はほんとうに楽しかった。でも、友だちと話していると、なんだかとても気になることも出てきた。"
 
 # game/script.rpy:808
 translate Japanese jimothy_one_69214e3e:
@@ -1934,13 +1934,13 @@ translate Japanese wave_two_3415298d:
 translate Japanese wave_two_d945e4ef:
 
     # j "I, Jimothy, a commoner, sees criminals trying to get away."
-    j "私、コモナーのジモシーは、犯罪者たちが逃げようとしているところを目撃しています。"
+    j "私、一般人のジモシーは、犯罪者たちが逃げようとしているところを目撃しています。"
 
 # game/script.rpy:881
 translate Japanese wave_two_2bd729f8:
 
     # "Alerted by a nameless commoner, the soldiers immediately zero in on you and your friends."
-    "名もなきコモナーに教えられ、兵士たちは直ちにあなたとその友達に狙いを定めた。"
+    "名もなき一般人に教えられ、兵士たちは直ちにあなたとその友達に狙いを定めた。"
 
 # game/script.rpy:883
 translate Japanese wave_two_c8172517:
@@ -1952,7 +1952,7 @@ translate Japanese wave_two_c8172517:
 translate Japanese wave_two_6d92fd17:
 
     # j "I'm sorry, Lena's friends..."
-    j "ごめんね、レナの友達のみんな……"
+    j "ごめんね、レナの友だちのみんな……"
 
 # game/script.rpy:885
 translate Japanese wave_two_8af8ce4b:
@@ -2594,7 +2594,7 @@ translate Japanese success_1b3d0ff2:
 translate Japanese success_32218f62:
 
     # "I mean, you do want a girlfriend regardless, preferably among your very hot best friends, but..."
-    "つまり、もちろんいつだってあなたはガールフレンドが欲しいと思ってはいる。できればこの最高にいかした友達の中から。でも……"
+    "つまり、もちろんいつだってあなたはガールフレンドが欲しいと思ってはいる。できればこの最高にいかした友だちの中から。でも……"
 
 # game/script.rpy:1083
 translate Japanese success_f7d11dd2:
@@ -3254,7 +3254,7 @@ translate Japanese ask_jimothy_92a2e8e9:
 translate Japanese ask_jimothy_0dbfb347:
 
     # j "My sister's been friends the longest with her, but..."
-    j "彼女は姉ちゃんの一番古い友達だけど、でも……"
+    j "彼女は姉ちゃんの一番古い友だちだけど、でも……"
 
 # game/script.rpy:1254
 translate Japanese ask_jimothy_66f9f047:
@@ -4106,19 +4106,19 @@ translate Japanese rafie_two_e0e3c2ba:
 translate Japanese rafie_two_86835c32:
 
     # "Having finished your work-out(?), you are filled with the sense of satisfaction you only get after a job well done."
-    "一仕事（？）終えたあなたは、素晴らしい仕事成し遂げた後だけに感じる満足感に満たされた。"
+    "一仕事（？）終えたあなたは、素晴らしい仕事を成し遂げた後だけに感じる満足感に満たされた。"
 
 # game/script.rpy:1466
 translate Japanese rafie_two_ff823d0b:
 
     # r "Now, Lena will understand what it means to face unprepared disaster, and she'll emerge stronger from this trial..."
-    r "これでレナも予想だにしない災厄に立ち向かうとはどういうことかわかるだろう。彼女はこの試練を乗り越えて強くなるのだ……"
+    r "これでレナも、予想だにしない災厄に立ち向かうとはどういうことかわかるだろう。彼女はこの試練を乗り越えて強くなるのだ……"
 
 # game/script.rpy:1467
 translate Japanese rafie_two_eceb779d:
 
     # "Wow, how thoughtful of her!"
-    "ワオ、なんて友達想いなんでしょう！"
+    "ワオ、なんて友だち想いなんでしょう！"
 
 # game/script.rpy:1469
 translate Japanese rafie_two_cb921dd5:
@@ -4370,7 +4370,7 @@ translate Japanese rafie_two_8175631b:
 translate Japanese rafie_two_b1dc3706:
 
     # r "It's not like I have trouble making friends or anything. I even befriended Jimothy, and he hates people, much more than he does now."
-    r "友達作るのが苦手とかそんなことは全然ないの。ジモシーは人間嫌いだけど仲良くなれたし。むかしはもっとひどかったんだよ。"
+    r "友だち作るのが苦手とかそんなことは全然ないの。ジモシーは人間嫌いだけど仲良くなれたし。むかしはもっとひどかったんだよ。"
 
 # game/script.rpy:1532
 translate Japanese rafie_two_4fa284d6:
@@ -4598,7 +4598,7 @@ translate Japanese gwen_two_e6c36ab0:
 translate Japanese gwen_two_bec0a026:
 
     # "It's hard to tell since you don't have eyes. But biological components are the least of your obstacles!"
-    "あなたの目はあまりよくないので、よくわからなかった。だが生物学的構成物などに止められるあなたではない！"
+    "あなたの目はあまりよくないので、よくわからなかった。だが生物学的構成物などに邪魔されるあなたではない！"
 
 # game/script.rpy:1587
 translate Japanese gwen_two_1a1a7338:
@@ -4814,7 +4814,7 @@ translate Japanese gwen_two_fb5b69da:
 translate Japanese gwen_two_ac394446:
 
     # "You wonder what is with McDonalds and this, uh, cryptid."
-    "あなやはマクドナルドとこの、あー、未確認生物にどういう関係があるのか疑問に思った。"
+    "あなたはマクドナルドとこの、あー、未確認生物にどういう関係があるのか疑問に思った。"
 
 # game/script.rpy:1641
 translate Japanese gwen_two_adb350d2:
@@ -5240,7 +5240,7 @@ translate Japanese wave_three_603204d9:
 translate Japanese wave_three_dac184ac:
 
     # hun "What- Nuh-uh! Some of my best friends are rocks!"
-    hun "なにを――違う！　わたしには岩の親友だっているぞ！"
+    hun "なにを――違う！　おれには岩の親友だっているぞ！"
 
 # game/script.rpy:1761
 translate Japanese wave_three_a5f5451d:
@@ -5270,7 +5270,7 @@ translate Japanese wave_three_e8ceaf4e:
 translate Japanese wave_three_117d4b08:
 
     # hun "I examine.... the ROCK."
-    hun "私が……その岩（the ROCK）を調べる。"
+    hun "おれが……その岩（the ROCK）を調べる。"
 
 # game/script.rpy:1774
 translate Japanese wave_three_69362903:
@@ -5516,13 +5516,13 @@ translate Japanese wave_three_72ce5169:
 translate Japanese wave_three_ecbea357:
 
     # "Congratulations, hero! Not only have you purged this land of evil and saved your friend’s hides, you have also gotten scot-free of murder!"
-    "英雄よ、おめでとう！　あなたはこの地から邪悪な敵を退治したのみならず、友達の安全も守り、さらには殺人の罪から放免されたのだ！"
+    "英雄よ、おめでとう！　あなたはこの地から邪悪な敵を退治したのみならず、友だちの安全も守り、さらには殺人の罪から放免されたのだ！"
 
 # game/script.rpy:1839
 translate Japanese wave_three_a197e788:
 
     # "And really, what more could a hero want? You celebrate joyously with your friends, wishing more than ever for your DANK GUITAR so you could play a little happy tune."
-    "英雄としてこれ以上なにを望みえるだろうか？　あなたは友達と楽しくこの結末を祝った。この時ほど「ダンクギター」が手元にあればと思ったことはない。そうすればちょっとした楽しい曲を演奏できたのに。"
+    "英雄としてこれ以上なにを望みえるだろうか？　あなたは友だちと楽しくこの結末を祝った。この時ほど「ダンクギター」が手元にあればと思ったことはない。そうすればちょっとした楽しい曲を演奏できたのに。"
 
 # game/script.rpy:1840
 translate Japanese wave_three_4ca9fdfe:
@@ -5565,6 +5565,7 @@ translate Japanese stage_three_e51a8eb0:
 
     # "While you're calculating taxi fares, though, your friend's voice calls out to you."
     "あなたがタクシー代がいくらぐらいかかるか考えていると、友達が呼ぶ声が聞こえた。"
+    
 # game/script.rpy:1873
 translate Japanese gwen_end_69c8e4f7:
 
@@ -6031,7 +6032,7 @@ translate Japanese lena_end_a3d73105:
 translate Japanese lena_end_0379f83c:
 
     # u "Tha-Thanks."
-    u "そ、そうかな。ありがとう。"
+    u "あ、ありがとう。"
 
 # game/script.rpy:2002
 translate Japanese lena_end_356cb048:
@@ -6692,7 +6693,7 @@ translate Japanese jimothy_end_492adf8b:
 translate Japanese jimothy_end_6fb161d0:
 
     # j "I don't mind."
-    j "大丈夫よ。"
+    j "気にしないよ。"
 
 # game/script.rpy:2184
 translate Japanese jimothy_end_e5ae9d4d:
