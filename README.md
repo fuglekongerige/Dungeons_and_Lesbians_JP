@@ -8,7 +8,7 @@ Dungeons and Lesbians の日本語化ファイルです。<br>
 本ファイルについての問い合わせや報告等はすべて本ファイル作者宛にするようお願いします。
 
 <h2>バージョン</h2>
-ver 1.0
+ver 1.1
 
 <h2>導入方法</h2>
 Japaneseフォルダを、DungeonsAndLesbians-1.2-win/game/tlフォルダの中においてください。<br>
@@ -19,6 +19,10 @@ Japaneseフォルダを、DungeonsAndLesbians-1.2-win/game/tlフォルダの中�
 みかちゃん http://www001.upp.so-net.ne.jp/mikachan/
 
 <h2>更新履歴</h2>
+Ver 1.1 2022/10/12
+・翻訳を修正
+・rpycファイルを削除
+
 Ver 1.0 2020/07/20<br>
 ・公開
 
